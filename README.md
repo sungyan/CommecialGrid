@@ -29,6 +29,6 @@ https://www.grapecity.com/wijmo   **wijmo** :DevExpress 와 양대 산맥을 이
 http://www.guriddo.net/demo/guriddojs/  **jqgrid** : 가장 유명한 무료 JS 기반 Grid 였으나 유료화 됨(v4.8 부터)    
  지원 Site 가 trirand 가 guriddo 로 변경, 기존의 trirand.net은 ASP.NET과 ASP.NET MVC jqGrid 에 대해서만 지원   
 http://zssdemo.zkoss.org/zssdemo/excel_like   웹기반 그리드(grid) sheet 시트 Excel Like    
-https://demos.telerik.com/kendo-ui/grid/index  Kendo UI for jquery   
+https://demos.telerik.com/kendo-ui/grid/index  **Kendo UI for jquery** : Telerik(gWorks Mail 개발시 개발업체 제안 Control) 의 JS 버전 Library     
 http://www.componentone.co.kr/products/wijmo/wijmo5_demos.htm  react,angluar    
 
