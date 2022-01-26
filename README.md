@@ -10,8 +10,7 @@ http://ax5.io/ax5ui-grid/demo/index.html  AXISJ 라는 오픈 소스 그룹에�
 http://tabulator.info/  Easy Data Table Generator with jQuery and JSON - Tabulator    
 https://datatables.net/examples/styling/bootstrap4.html  심플한 기능   
 
-## 상용-국산(대부분 그리드를 구매하면 chart도 쓸수 있음)
-
+## 상용-국산   
 https://www.ibsheet.com/ibsheet.html IBSheet Ver 7   
 https://demo.ibleaders.com/ibsheet/v8/samples/customer-sample/html/main.html IBsheet Ver 8 (8부터 SPA 지원)
 http://demo.realgrid.com/  국산상용 lg계열사적용됨   (IBSheet 의 경쟁제품?)
@@ -28,8 +27,7 @@ http://grid.alopex.io/  [SK C&C 대표 기업용 솔루션] NEXCORE
 https://js.devexpress.com/  **DevExtreme** : DevExpress 의 JS 버전 Library , 무료(Non-Commecial License)로 사용가능        
 https://www.grapecity.com/wijmo   **wijmo** :DevExpress 와 양대 산맥을 이루는 ComponentOne 의 JS 버전 Library        
 http://www.guriddo.net/demo/guriddojs/  **jqgrid** : 가장 유명한 무료 JS 기반 Grid 였으나 유료화 됨(v4.8 부터)    
- trirand 가 guriddo 로 바뀌었습니다.    
- 기존의 trirand.net은 ASP.NET과 ASP.NET MVC jqGrid 에 대해서만 정보를 제공합니다.        
+ 지원 Site 가 trirand 가 guriddo 로 변경, 기존의 trirand.net은 ASP.NET과 ASP.NET MVC jqGrid 에 대해서만 지원   
 http://zssdemo.zkoss.org/zssdemo/excel_like   웹기반 그리드(grid) sheet 시트 Excel Like    
 https://demos.telerik.com/kendo-ui/grid/index  Kendo UI for jquery   
 http://www.componentone.co.kr/products/wijmo/wijmo5_demos.htm  react,angluar    
