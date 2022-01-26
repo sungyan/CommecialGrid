@@ -3,10 +3,10 @@
 
 ## 무료
 https://www.sencha.com/  **ExtJs** gworks 사용 UI, GPL v3 적용이므로 무료로 쓰기는 애매함   
-https://nhnent.github.io/tui.grid/api/tutorial-example01-basic.html  **토스트ui** (NHN 에서 개발), 커뮤니티에서 호평   
+https://ui.toast.com/  **토스트ui** (NHN 에서 개발), 커뮤니티에서 호평   
 http://mleibman.github.io/SlickGrid/examples/  SlickGrid(jqgrid에 비해 속도가 다소 빠름)   
 http://uiplay.jui.io/?p=tables  제니퍼소프트 개발자가 만든 오픈소스   
-http://ax5.io/ax5ui-grid/demo/index.html  AXISJ 라는 오픈 소스 그룹에서 만든 그리드   
+https://axisj.com/ax5/  AXISJ 라는 오픈 소스 그룹에서 만든 그리드   
 http://tabulator.info/  Easy Data Table Generator with jQuery and JSON - Tabulator    
 https://datatables.net/examples/styling/bootstrap4.html  심플한 기능   
 
